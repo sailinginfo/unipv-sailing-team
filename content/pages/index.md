@@ -69,8 +69,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         price: JECO Pavia
         details: >+
           Chi è lo sponsor in questione, cosa fa e in che modo ha aiutato il
