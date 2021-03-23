@@ -121,6 +121,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Elena  Todaro.jpg
 seo:
   title: ''
   description: ''
