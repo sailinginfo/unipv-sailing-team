@@ -14,7 +14,7 @@ sections:
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     features:
       - title: Obiettivi
         image: images/Home_obiettivi.jpg
