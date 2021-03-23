@@ -65,6 +65,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
   - section_id: reviews
     type: section_reviews
     background: white
@@ -104,12 +110,6 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    pricing_plans: []
-    type: section_pricing
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
