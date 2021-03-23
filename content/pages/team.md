@@ -21,17 +21,33 @@ sections:
     image: images/Davide Todesca.jpg
   - section_id: lorem-ipsum
     title: DAVIDE TODESCA
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Leader di UniPV Sailing Team
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Diplomato al liceo scientifico Taramelli di Pavia frequenta il corso di
+      laurea in Ingegneria Industriale dove svolge anche attività di tutor dei
+      corsi di Analisi I e Meccanica Applicata alle Macchine. Curioso, ricco di
+      interessi ma con i piedi ben piantati per terra, ama il mare e la
+      montagna. 
 
 
-      - Lorem ipsum
+      Al termine del primo anno, concluso brillantemente, sviluppa l'idea di
+      poter coniugare gli studi in corso con la sua passione per la vela
+      sportiva e propone quindi di fondare un Sailing Team nell'Università di
+      Pavia analogo a quelli presenti in altri Atenei. 
 
-      - dolor sit amet
+
+      Attualmente ricopre l’incarico di Team Leader del progetto UniPV Sailing
+      Team e coordina le attività di ricerca e sviluppo per varare il primo Moth
+      UniPV.
+
+
+      Oltre a questo continua a coltivare i suoi molteplici interessi: suona la
+      chitarra, fotografa con macchine analogiche e digitali, registra ed edita
+      video recentemente anche con l’uso di droni, gioca nella squadra di serie
+      B di pallamano, è animatore in campi estivi per ragazzi delle scuole
+      medie.
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
