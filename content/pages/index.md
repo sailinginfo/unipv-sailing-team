@@ -17,7 +17,7 @@ sections:
     background: white
     features:
       - title: Obiettivi
-        image: images/caring-potato.jpg
+        image: images/nervous-sycamore.jpg
         image_alt: App preview on a phone and tablet
         content: >
           Sviluppare l’attitudine al raggiungimento di scopi mirati, anche in
