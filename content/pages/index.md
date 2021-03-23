@@ -70,6 +70,7 @@ sections:
     background: gray
     pricing_plans: []
     type: section_pricing
+    section_id: pricing section
   - section_id: reviews
     type: section_reviews
     background: white
