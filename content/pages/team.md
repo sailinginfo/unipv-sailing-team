@@ -25,17 +25,12 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Studiare la relazione proprietà del materiale e impiego, operare scelte di
+      metodologie produttive delle diverse componenti tenendo conto delle
+      prestazioni, degli aspetti economici e di ecosostenibilità e delle
+      problematiche tecnico realizzative.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
