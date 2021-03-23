@@ -95,7 +95,7 @@ sections:
     type: section_content
     image: images/Alessandro Lauria.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Alessio Ferrari
     content: >-
       ## Lorem ipsum
 
