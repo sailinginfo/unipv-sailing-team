@@ -4,20 +4,20 @@ sections:
   - section_id: lorem-ipsum
     title: DAVIDE TODESCA
     content: >
-      ## Leader di UniPV Sailing Team
+      ## Leader UniPV Sailing Team
 
 
       Diplomato al liceo scientifico Taramelli di Pavia frequenta il corso di
       laurea in Ingegneria Industriale dove svolge anche attività di tutor dei
       corsi di Analisi I e Meccanica Applicata alle Macchine. Curioso, ricco di
       interessi ma con i piedi ben piantati per terra, ama il mare e la
-      montagna. 
+      montagna.
 
 
       Al termine del primo anno, concluso brillantemente, sviluppa l'idea di
       poter coniugare gli studi in corso con la sua passione per la vela
       sportiva e propone quindi di fondare un Sailing Team nell'Università di
-      Pavia analogo a quelli presenti in altri Atenei. 
+      Pavia analogo a quelli presenti in altri Atenei.
 
 
       Attualmente ricopre l’incarico di Team Leader del progetto UniPV Sailing
