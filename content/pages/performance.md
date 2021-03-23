@@ -153,7 +153,7 @@ sections:
     type: section_content
     image: images/Enrico Pellegrino.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Matthew Alessandro Sollazzo
     content: >-
       ## Lorem ipsum
 
