@@ -21,7 +21,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: Obiettivi
-        image: images/feature1.png
+        image: images/Home_obiettivi.jpg
         image_alt: App preview on a phone and tablet
         content: >
           Sviluppare l’attitudine al raggiungimento di scopi mirati, anche in
