@@ -29,7 +29,7 @@ sections:
     type: section_content
     image: images/Alessandro Cardani.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: ALESSANDRO CARDANI
     content: >-
       ## Lorem ipsum
 
