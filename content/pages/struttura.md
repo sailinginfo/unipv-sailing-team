@@ -123,17 +123,25 @@ sections:
     image: images/Riccardo Meda.jpeg
   - section_id: lorem-ipsum
     title: Stefano Oggionni
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato presso il Liceo Scientifico Taramelli di Pavia, decide di
+      iscriversi al corso di laurea in Ingegneria Industriale dell’Università di
+      Pavia.
+
+      Curioso e determinato, ad inizio 2020, entra a far parte dell’UniPV
+      Sailing Team con l’obiettivo di mettere in pratica le proprie conoscenze e
+      consolidare la capacità nel lavoro in squadra. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Come membro del gruppo Struttura ha acquisito competenze nell’utilizzo di
+      software CAD per la progettazione meccanica come Inventor, che continua ad
+      approfondire nell’interesse personale.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Amante dello sport e della montagna, coltiva da qualche anno il suo hobby
+      per il videomaking e la fotografia partecipando a corsi online, con l’idea
+      in futuro di arrivare a conciliare queste sue passioni con l’esperienza
+      acquisita nel suo percorso di studi.
     image_alt: lorem-ipsum
     background: gray
     actions: []
