@@ -46,13 +46,7 @@ sections:
           sostenibili, stimolando studenti di Università e istituti superiori di
           tutta Europa ad una competizione amichevole, tecnica e atletica.
 
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - title: Sponsor
     background: gray
     pricing_plans:
