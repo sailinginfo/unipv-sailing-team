@@ -26,7 +26,7 @@ sections:
         content: >
           Sviluppare l’attitudine al raggiungimento di scopi mirati, anche in
           ambito competitivo, rispettando le tempistiche di realizzazione e
-          ottimizzando gli aspetti teorici e pratici
+          ottimizzando gli aspetti teorici e pratici.
         actions:
           - label: Learn More
             url: /features
