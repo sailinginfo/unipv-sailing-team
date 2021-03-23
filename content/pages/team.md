@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    title: Performance
+    title: PERFORMANCE
     content: >+
       Creare un modello CAD attraverso l’utilizzo di calcoli sperimentali,
       teorici e simulazioni fluidodinamiche al calcolatore, rendendo lo studente
