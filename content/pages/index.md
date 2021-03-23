@@ -47,7 +47,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Challenge
-        image: images/amazing-hedgehog.jpg
+        image: images/pleasant-pine.jpg
         image_alt: App user profile preview
         content: >+
           La *Foiling SuMoth Challenge* è una competizione ispirata dalla
