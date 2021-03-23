@@ -45,7 +45,7 @@ sections:
     actions: []
     type: section_content
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: WEB
     content: >+
       Progettare il sito web del Team che presenti il progetto nella sua
       interezza.
