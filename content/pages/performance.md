@@ -97,17 +97,18 @@ sections:
     image: images/Alessio Ferrari.jpg
   - section_id: lorem-ipsum
     title: Raffaele Magni
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato al Liceo Scientifico Giacomo Leopardi di Lecco, frequenta
+      attualmente il corso di laurea in Ingegneria Industriale ad indirizzo
+      meccanico presso l'Università di Pavia. Possiede una buona padronanza
+      della lingua Inglese. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Durante l'università ha approfondito la sua passione per la meccanica
+      automobilistica con un corso presso l'Autodromo di Monza e continua a
+      sviluppare i suoi interessi per la progettazione all'interno dell'UniPV
+      Sailing Team, focalizzandosi sulle simulazioni fluidodinamiche implicate
+      nello sviluppo di un'imbarcazione.
     image_alt: lorem-ipsum
     background: gray
     actions: []
