@@ -104,7 +104,7 @@ sections:
     type: section_content
     image: images/Lorenzo_Guerci.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Fabiola Jeazet Dongmo
     content: >-
       ## Lorem ipsum
 
