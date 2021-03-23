@@ -36,17 +36,28 @@ sections:
     image: images/Arianna Pittaluga.jpeg
   - section_id: lorem-ipsum
     title: Tommaso Cazzella
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Ha conseguito il diploma scientifico presso il Liceo Ginnasio Statale
+      Melchiorre Gioia di Piacenza e frequenta il corso di laurea triennale in
+      “Scienze e Tecniche Psicologiche”, presso l'ateneo di Pavia, con risultati
+      brillanti.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Pur mantenendo l'originaria passione per la psicologia clinica, sviluppa
+      nel tempo anche interesse e inclinazione per il ramo della psicologia
+      delle organizzazioni che autonomamente affianca alla formazione
+      universitaria e nell'anno 2020 accede con successo all'area Comunicazione
+      di “JECO Pavia”. Qui inizia a toccare con mano il mondo del lavoro e ad
+      applicare quanto letto e appreso in ambito accademico.
 
 
-      - Lorem ipsum
+      All’inizio del 2021 diventa membro dell’UniPV Sailing Team, mettendo a
+      disposizione del team le competenze maturate.
 
-      - dolor sit amet
+
+      E' appassionato di lettura, musica e filmografia e si dedica con
+      regolarità all'attività fisica del pugilato, che pratica a livello
+      agonistico.
     image_alt: lorem-ipsum
     background: gray
     actions: []
