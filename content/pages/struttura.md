@@ -146,6 +146,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Stefano_Oggioni.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
