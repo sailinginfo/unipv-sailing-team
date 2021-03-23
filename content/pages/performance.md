@@ -79,17 +79,16 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato con massimo dei voti presso l’istituto tecnico nautico Vespucci
+      di Gallipoli (LE), frequenta il secondo anno di Ingegneria Industriale.
+      Ambizioso e amante delle sfide, decide di entrare a far parte del team del
+      progetto UniPV Sailing Team.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Nel tempo libero si dedica a varie attività, tra cui l’allenamento in
+      palestra nell’ambito del powerlifting, suonare la chitarra e viaggiare.
     image_alt: lorem-ipsum
     background: gray
     actions: []
