@@ -56,17 +56,23 @@ sections:
     image: images/Osama Ezzaouia.jpg
   - section_id: lorem-ipsum
     title: Samantha Forlini
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Diplomata all’ I.T.A.S. “C. Gallini” di Voghera (PV) come perito chimico,
+      frequenta il corso di laurea in Ingegneria Industriale. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Membro del Team Materiali, ha svolto ricerche su materiali ecocompatibili
+      per molte componenti della barca, soffermandosi poi sulla produzione di
+      pezzi in PLA da stampante 3D.
 
 
-      - Lorem ipsum
+      Sempre impegnata nella cura del sé e degli altri, è appassionata di
+      taekwondo, un’arte marziale coreana che pratica dall’età di 7 anni.
+      Volontaria presso Croce Rossa Italiana nel Comitato di Casteggio, ha
+      conseguito le qualifiche di operatore per il Trasporto Semplice e Capo
+      Squadra in Emergenza.
 
-      - dolor sit amet
+
     image_alt: lorem-ipsum
     background: gray
     actions: []
