@@ -42,17 +42,19 @@ sections:
     image: images/pleasant-europa.jpg
   - section_id: lorem-ipsum
     title: Simone La Manna
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato all'istituto tecnico per geometri Alessandro Volta di Pavia,
+      frequenta il corso di Ingegneria Industriale, indirizzo Meccanica, presso
+      l'ateneo di Pavia. Dopo aver conosciuto il progetto UniPV Sailing Team,
+      creato da ragazzi dell'università per poter unire la propria passione e i
+      propri studi, decide di parteciparvi. Attualmente fa parte del team
+      Performance e si dedica insieme ad altri ragazzi alle analisi CFD.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Oltre al proseguimento degli studi continua a coltivare la sua più grande
+      passione, la motocicletta, cercando di portare avanti il suo progetto di
+      una moto ibrida. Ama lo sport in generale a cui si dedica seguendo uno
+      stile di vita sano e salutare.
     image_alt: lorem-ipsum
     background: gray
     actions: []
