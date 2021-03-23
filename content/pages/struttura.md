@@ -122,7 +122,7 @@ sections:
     type: section_content
     image: images/Riccardo Meda.jpeg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Stefano Oggionni
     content: >-
       ## Lorem ipsum
 
