@@ -55,7 +55,7 @@ sections:
     type: section_content
     image: images/Osama Ezzaouia.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Samantha Forlini
     content: >-
       ## Lorem ipsum
 
