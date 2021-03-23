@@ -54,6 +54,24 @@ sections:
     type: section_content
     image: images/Matteo Pastore.jpg
   - section_id: lorem-ipsum
+    title: Alessio Ferrari
+    content: >
+      Diplomato al liceo scientifico Copernico a Pavia, dove frequenta il corso
+      di laurea ingegneria industriale.
+
+      Pragmatico e interessato agli studi intrapresi, una volta presentatogli
+      l’opportunità decide di prendere parte al progetto “UniPV sailing team”
+      nel team Performance.
+
+
+      Oltre a questo porta avanti il suo interesse nel mondo dello sport
+      giocando a calcio nella lega Promozione lombarda, e quello per il cinema.
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
+    image: images/Alessio Ferrari.jpg
+  - section_id: lorem-ipsum
     title: Filippo Iuriy Inveninato
     content: "Nato ad Odessa in Ucraina dopo essersi diplomato come perito manutentore Aeronautico presso l’I.T.I.S\_ G. Feltrinelli di Milano si iscrive al corso di laurea in Ingegneria Industriale Meccanica all'Università di Pavia. Durante il primo anno universitario entra a far parte del UniPV Sailing Team spinto dalla voglia di far esperienza\_ e di contribuire con le proprie conoscenze in ambito aeronautico. Entra nel Team Performance, partecipando principalmente alla progettazione dello scafo e al miglioramento dell’efficienza generale.\n\nNel tempo libero, oltre alla passione per la chitarra elettrica, segue con interesse i progressi in campo aerospaziale e nel settore dell’automotive. La fluenza in lingua inglese ha reso possibile l’apprendimento di nozioni aggiuntive in campo tecnico, che lo motivano alla creazione di progetti personali su Fusion360 e su carta, mantenendo alta la voglia di reinventarsi e migliorarsi nel tempo.\n"
     image_alt: lorem-ipsum
@@ -98,24 +116,6 @@ sections:
     actions: []
     type: section_content
     image: images/Alessandro Lauria.jpg
-  - section_id: lorem-ipsum
-    title: Alessio Ferrari
-    content: >
-      Diplomato al liceo scientifico Copernico a Pavia, dove frequenta il corso
-      di laurea ingegneria industriale.
-
-      Pragmatico e interessato agli studi intrapresi, una volta presentatogli
-      l’opportunità decide di prendere parte al progetto “UniPV sailing team”
-      nel team Performance.
-
-
-      Oltre a questo porta avanti il suo interesse nel mondo dello sport
-      giocando a calcio nella lega Promozione lombarda, e quello per il cinema.
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: images/Alessio Ferrari.jpg
   - section_id: lorem-ipsum
     title: Raffaele Magni
     content: >
