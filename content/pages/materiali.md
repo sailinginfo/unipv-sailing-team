@@ -33,7 +33,7 @@ sections:
     type: section_hero
     image: images/Spazzini Fabio.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Osama Ezzaouia
     content: >-
       ## Lorem ipsum
 
