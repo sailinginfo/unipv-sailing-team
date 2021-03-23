@@ -113,17 +113,26 @@ sections:
     image: images/Fabiola Jeazet Dongmo.jpg
   - section_id: lorem-ipsum
     title: Elena Todaro
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomata presso il Liceo scientifico “Oreste Del Prete”, Sava (TA),
+      frequenta il corso di laurea in Ingegneria Industriale. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Membro del Team Materiali, ha appreso nozioni sulla produzione di vari
+      elementi di un Moth, in particolare di alberi e terrazze in composito. Ha
+      una buona conoscenza della lingua inglese e francese ed ha sostenuto uno
+      stage di lingua a Londra.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Curiosa, intraprendente e propensa al lavoro di gruppo, durante gli anni
+      del liceo ha partecipato ad un progetto di analisi di fauna e flora marine
+      delle coste salentine, contribuendo alla cura della spiaggia, ha seguito
+      lezioni di fisica sulla degradazione dell’ambiente presso il Dipartimento
+      di Fisica di Lecce e ha preso parte alla stesura di un business plan per
+      la realizzazione di un sedile che convertisse calore corporeo in energia
+      elettrica per i dispositivi elettronici. Per anni ha praticato discipline
+      sportive come nuoto, danza e kick boxing conseguendo vari brevetti. Ama la
+      lettura e la musica, sa suonare il pianoforte e il flauto classico.
     image_alt: lorem-ipsum
     background: gray
     actions: []
