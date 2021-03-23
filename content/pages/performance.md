@@ -183,6 +183,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Matthew_sollazzo.jpg
 seo:
   title: ''
   description: ''
