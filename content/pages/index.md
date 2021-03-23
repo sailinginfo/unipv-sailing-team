@@ -49,7 +49,7 @@ sections:
         actions:
           - url: >-
               https://www.foilingweek.com/pages/about/past-events/twenty19/fwdsgcomp/sumoth/
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: left
