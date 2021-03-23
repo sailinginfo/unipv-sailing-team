@@ -32,7 +32,7 @@ sections:
     actions: []
     type: section_content
   - section_id: lorem-ipsum
-    title: Arianna Pittaluga
+    title: ARIANNA PITTALUGA
     content: >
       ## Responsabile Team Business
 
