@@ -43,17 +43,27 @@ sections:
     image: images/Stefano Cesarin.jpeg
   - section_id: lorem-ipsum
     title: Bryan Kevin Chàvez Pino
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Nato in Ecuador dopo essersi diplomato come perito Meccanico all'istituto
+      A. Maserati di Voghera (PV) si iscrive al corso di laurea in Ingegneria
+      Industriale Meccanica all'Università di Pavia. Durante il suo primo anno
+      universitario entra nel progetto UniPV Sailing Team dove prende parte al
+      gruppo Struttura con lo scopo di ampliare le proprie competenze in ambito
+      strutturale e tecnologico e del teamworking, approfondendo l’uso di
+      software come MATLAB, Simulink, Inventor, Fusion360.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Attualmente al secondo anno di Ingegneria Industriale, ha dimostrato di
+      essere una persona curiosa, determinata e volenterosa, realizzando i suoi
+      obiettivi in questi due anni. Sempre pronto per ogni avventura che gli
+      pone la vita, ha deciso di seguire un corso di business developer online
+      che lo aiuterà sia economicamente, anche per la realizzazione dei propri
+      sogni. 
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Nel tempo libero ama dedicarsi alla sua famiglia e ai suoi hobby, come il
+      basket, atletica leggera, fitness. In un futuro vorrebbe viaggiare e
+      visitare tutte le culture e tecnologie che il mondo gli offre.
     image_alt: lorem-ipsum
     background: gray
     actions: []
