@@ -20,7 +20,7 @@ sections:
     type: section_content
     image: images/Davide Todesca.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: DAVIDE TODESCA
     content: >-
       ## Lorem ipsum
 
