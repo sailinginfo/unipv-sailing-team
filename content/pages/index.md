@@ -56,6 +56,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: Challenge site
   - title: Sponsor
     background: gray
     pricing_plans:
