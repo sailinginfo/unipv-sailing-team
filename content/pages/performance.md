@@ -134,17 +134,19 @@ sections:
     image: images/Matteo Pastore.jpg
   - section_id: lorem-ipsum
     title: Enrico Pellegrino
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Dopo aver completato il quarto anno di liceo negli Stati Uniti d’America,
+      si diploma al Liceo Scientifico delle Scienze Applicate G. Caramuel di
+      Vigevano (PV). Considerati i suoi interessi per le macchine utensili e
+      l'automazione, si iscrive all’Università degli Studi di Pavia al corso di
+      Ingegneria Industriale dove ora frequenta il terzo anno.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Kiteboarder dal 2012, foiler dal 2020, espande la sua passione per la vela
+      entrando a far parte dell’UniPV Sailing Team fin da subito, occupandosi
+      dello studio del meccanismo di controllo di volo del Moth. Nel tempo
+      libero coltiva la sua passione per il pianoforte, il nuoto, il ciclismo e
+      lo snowboard.
     image_alt: lorem-ipsum
     background: gray
     actions: []
