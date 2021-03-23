@@ -10,7 +10,7 @@ sections:
       ## Imparare, formare, volare&#xA;&#xA;
     actions:
       - label: About Us
-        url: /features
+        url: /about-us
         style: primary
   - section_id: features
     type: section_features
