@@ -33,6 +33,27 @@ sections:
     type: section_hero
     image: images/elite-avocado.jpg
   - section_id: lorem-ipsum
+    title: Matteo Pastore
+    content: >
+      ## Skipper
+
+
+      Diplomato al liceo scientifico Taramelli di Pavia e frequenta il corso di
+      laurea in Ingegneria Industriale. Ragazzo intraprendente e con tanto
+      spirito di squadra, partecipa ad attività e progetti, come quello del
+      UniPV Sailing Team, per portare avanti la sua passione per la vela anche
+      in ambito universitario. 
+
+
+      Da sempre molto dedito allo sport, gioca a basket da 8 anni ed è
+      volontario presso il Centro Velico Caprera dove svolge attività di
+      supporto agli istruttori.
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
+    image: images/Matteo Pastore.jpg
+  - section_id: lorem-ipsum
     title: Filippo Iuriy Inveninato
     content: "Nato ad Odessa in Ucraina dopo essersi diplomato come perito manutentore Aeronautico presso l’I.T.I.S\_ G. Feltrinelli di Milano si iscrive al corso di laurea in Ingegneria Industriale Meccanica all'Università di Pavia. Durante il primo anno universitario entra a far parte del UniPV Sailing Team spinto dalla voglia di far esperienza\_ e di contribuire con le proprie conoscenze in ambito aeronautico. Entra nel Team Performance, partecipando principalmente alla progettazione dello scafo e al miglioramento dell’efficienza generale.\n\nNel tempo libero, oltre alla passione per la chitarra elettrica, segue con interesse i progressi in campo aerospaziale e nel settore dell’automotive. La fluenza in lingua inglese ha reso possibile l’apprendimento di nozioni aggiuntive in campo tecnico, che lo motivano alla creazione di progetti personali su Fusion360 e su carta, mantenendo alta la voglia di reinventarsi e migliorarsi nel tempo.\n"
     image_alt: lorem-ipsum
@@ -114,27 +135,6 @@ sections:
     actions: []
     type: section_content
     image: images/Raffaele Magni.jpg
-  - section_id: lorem-ipsum
-    title: Matteo Pastore
-    content: >
-      ## Skipper
-
-
-      Diplomato al liceo scientifico Taramelli di Pavia e frequenta il corso di
-      laurea in Ingegneria Industriale. Ragazzo intraprendente e con tanto
-      spirito di squadra, partecipa ad attività e progetti, come quello del
-      UniPV Sailing Team, per portare avanti la sua passione per la vela anche
-      in ambito universitario. 
-
-
-      Da sempre molto dedito allo sport, gioca a basket da 8 anni ed è
-      volontario presso il Centro Velico Caprera dove svolge attività di
-      supporto agli istruttori.
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: images/Matteo Pastore.jpg
   - section_id: lorem-ipsum
     title: Enrico Pellegrino
     content: >
