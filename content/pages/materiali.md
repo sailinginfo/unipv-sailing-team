@@ -85,6 +85,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Lorenzo_Guerci.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
