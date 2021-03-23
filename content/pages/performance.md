@@ -93,6 +93,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Alessandro Lauria.jpg
   - section_id: lorem-ipsum
     background: gray
     pricing_plans: []
