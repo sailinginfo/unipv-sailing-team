@@ -33,13 +33,7 @@ sections:
           settore.                                                                                                       
           Raggiungere competenze certificate spendibili nel mondo del lavoro.
 
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Challenge
         image: images/pleasant-pine.jpg
         image_alt: App user profile preview
