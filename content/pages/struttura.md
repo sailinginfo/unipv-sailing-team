@@ -70,7 +70,7 @@ sections:
     type: section_content
     image: images/Bryan Chavez.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Simone Cossu
     content: >-
       ## Lorem ipsum
 
