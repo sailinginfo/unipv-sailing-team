@@ -82,14 +82,6 @@
                 "title": "Community",
                 "nav_links": [
                     {
-                        "label": "GitHub",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "github",
-                        "icon_position": "left"
-                    },
-                    {
                         "label": "Instagram",
                         "style": "link",
                         "has_icon": true,
