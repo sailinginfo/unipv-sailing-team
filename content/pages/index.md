@@ -81,7 +81,7 @@ sections:
     section_id: pricing section
   - section_id: recent-posts
     type: section_posts
-    background: gray
+    background: white
     title: Latest Posts
 seo:
   title: Stackbit Azimuth Theme
