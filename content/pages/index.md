@@ -76,7 +76,7 @@ sections:
         highlight: false
         actions:
           - label: More
-            url: '#'
+            url: 'https://jecopavia.it/'
             style: primary
             has_icon: true
             icon: arrow-right
