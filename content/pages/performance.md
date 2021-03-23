@@ -24,7 +24,7 @@ sections:
       robotica, con una forte determinazione a vedere i suoi progetti
       realizzarsi.
     image_alt: lorem-ipsum
-    background: gray
+    background: white
     actions: []
     type: section_content
     image: images/Alessandro Cardani.jpg
