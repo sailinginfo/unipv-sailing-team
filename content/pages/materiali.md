@@ -34,17 +34,18 @@ sections:
     image: images/Spazzini Fabio.jpg
   - section_id: lorem-ipsum
     title: Osama Ezzaouia
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Di origini straniere, è poliedrico e poliglotta (italiano madrelingua,
+      arabo madrelingua, inglese buono, francese base). Sempre disposto ad
+      imparare in ogni campo, dal 2017 ha maturato diverse esperienze lavorative
+      nel campo della muratura, elettricista, idraulica, meccanica auto/moto,
+      giardinaggio, traslochi, logistica e smontaggio/montaggio strutture.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Diplomato presso ITIS Cardano di Pavia come perito chimico, frequenta il
+      corso di laurea in Ingegneria Industriale. Membro del Team Materiali, ha
+      appreso diverse tecniche produttive nella produzione di compositi e in
+      particolare di alberi per barche a vela da stampi maschio e femmina.
     image_alt: lorem-ipsum
     background: gray
     actions: []
