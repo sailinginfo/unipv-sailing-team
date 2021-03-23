@@ -105,17 +105,7 @@ sections:
     image: images/Lorenzo_Guerci.jpg
   - section_id: lorem-ipsum
     title: Fabiola Jeazet Dongmo
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Diplomata presso il Liceo Bilingue di Bepanda (Camerun), frequenta il corso di laurea in Ingegneria Industriale. \n\nMembro del Team Materiali, ha svolto ricerche sulla produzione di terrazze, valutando i materiali ecocompatibili e l’assemblaggio con lo scafo e realizzazione, approfondendo anche il trattamento del bambù. Interessata in molti campi ma impegnata al massimo in ciascuno di essi, al liceo è stata membro del club scientifico con il quale ha partecipato a vari esperimenti didattici, del club di giornalismo con cui ha realizzato un articolo per\_ la Giornata Mondiale della Filosofia e del club sportivo con cui si è classificata prima nelle competizioni inter liceali nella corsa sulle distanze 100 m e 400 m. \n\nPossiede conoscenze in ambito ecologico avendo aiutato per anni nei campi di famiglia per il trattamento delle superfici fertili e per la produzione di varie coltivazioni come mais e fagioli. Grazie a queste esperienze è divenuta premurosa, dinamica e socievole, con spiccate abilità nel lavoro di squadra.\n\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
