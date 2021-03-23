@@ -31,7 +31,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Crescita
-        image: images/Home_crescita.jpg
+        image: images/fierce-panda.jpg
         image_alt: App users welcoming a new member
         content: >+
           Imparare a instaurare e mantenere rapporti di collaborazione con le
