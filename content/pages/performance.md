@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum Alessandro Cardani
+    title: ALESSANDRO CARDANI
     content: >-
       ## Lorem ipsum
 
