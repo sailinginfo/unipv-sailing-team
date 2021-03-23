@@ -197,17 +197,7 @@ sections:
     image: images/Marco Vuturo.jpeg
   - section_id: lorem-ipsum
     title: Artion Zeneli
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Diplomato al liceo scientifico indirizzo Scienze Applicate presso l'istituto A.Cesaris di Casalpusterlengo (LO), si iscrive all’università di Pavia per proseguire gli studi. Ora al terzo anno di Ingegneria Biomedica, ha dimostrato di essere una persona determinata e focalizzata sugli obiettivi.\n\nGli interessano soprattutto l'aspetto pratico delle discipline di studio, per questo decide di entrare a far parte del Sailing Team. Si unisce al Team Struttura in cui si occupa insieme ai suoi compagni dell'area di progetto interessata al disegno CAD 3D e programmazione in MATLAB.\_ \n\nNel tempo libero ama dedicarsi ai suoi hobby, quali il basket, nuoto e skateboarding. Negli ultimi periodo è cresciuto il suo interesse verso la cinepresa. In futuro spera di poter essere un libero professionista nel campo delle consulenze ingegneristiche.\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
