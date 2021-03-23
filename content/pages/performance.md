@@ -39,7 +39,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/royal-rosemary.jpg
+    image: images/pleasant-europa.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
