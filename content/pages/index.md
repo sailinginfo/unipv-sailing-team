@@ -11,7 +11,7 @@ sections:
     actions:
       - label: About Us
         url: /features
-        style: primary
+        style: secondary
   - section_id: features
     type: section_features
     background: gray
