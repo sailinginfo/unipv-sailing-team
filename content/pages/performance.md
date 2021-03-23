@@ -96,7 +96,7 @@ sections:
     type: section_content
     image: images/Alessio Ferrari.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Raffaele Magni
     content: >-
       ## Lorem ipsum
 
