@@ -3,17 +3,17 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     title: Fondatore
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Davide Todesca
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
