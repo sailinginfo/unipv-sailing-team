@@ -66,7 +66,6 @@ sections:
             icon: arrow-right
             icon_position: right
   - title: Sponsor
-    subtitle: lorem-ipsum
     background: gray
     pricing_plans:
       - price: JECO Pavia
