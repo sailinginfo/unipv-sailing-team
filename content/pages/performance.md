@@ -33,11 +33,6 @@ sections:
     type: section_hero
     image: images/super-owl.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    type: section_posts
-  - section_id: lorem-ipsum
     background: gray
     pricing_plans: []
     type: section_pricing
