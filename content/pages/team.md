@@ -12,7 +12,7 @@ sections:
     background: gray
     actions:
       - label: More
-        url: '#'
+        url: /performance
         style: secondary
         has_icon: false
         icon: arrow-left
