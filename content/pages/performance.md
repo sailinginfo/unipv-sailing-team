@@ -39,7 +39,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/pleasant-europa.jpg
+    image: images/diligent-primrose.jpg
   - section_id: lorem-ipsum
     title: Simone La Manna
     content: >
