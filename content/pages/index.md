@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Home_logo.jpg
     image_alt: App preview
     title: UniPV Sailing Team
     content: >-
