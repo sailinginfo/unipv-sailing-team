@@ -17,7 +17,7 @@ sections:
     background: white
     features:
       - title: Obiettivi
-        image: images/nervous-sycamore.jpg
+        image: images/purple-sun.jpg
         image_alt: App preview on a phone and tablet
         content: >
           Sviluppare l’attitudine al raggiungimento di scopi mirati, anche in
