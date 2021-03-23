@@ -78,7 +78,7 @@ sections:
     actions: []
     type: section_content
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Simone Lauria
     content: >
       Diplomato con massimo dei voti presso l’istituto tecnico nautico Vespucci
       di Gallipoli (LE), frequenta il secondo anno di Ingegneria Industriale.
