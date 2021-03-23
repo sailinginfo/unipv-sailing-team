@@ -10,7 +10,16 @@ sections:
 
     image_alt: lorem-ipsum
     background: gray
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
     image: images/performance.jpg
   - section_id: lorem-ipsum
