@@ -18,6 +18,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Davide Todesca.jpg
   - section_id: lorem-ipsum
     title: PERFORMANCE
     content: >+
