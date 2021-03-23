@@ -35,7 +35,7 @@ sections:
     type: section_hero
     image: images/Arianna Pittaluga.jpeg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Tommaso Cazzella
     content: >-
       ## Lorem ipsum
 
