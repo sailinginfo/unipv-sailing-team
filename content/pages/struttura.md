@@ -95,17 +95,27 @@ sections:
     image: images/Simone Cossu.jpg
   - section_id: lorem-ipsum
     title: Riccardo Meda
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Nato e cresciuto a Milano dove si è diplomato nel 2016 in Amministrazione
+      Finanza e Marketing all’istituto Piero Della Francesca, dopo un anno
+      passato in Australia a lavorare e a studiare la lingua, frequenta il corso
+      di laurea in ingegneria industriale presso l’Università degli Studi di
+      Pavia.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Effettua due semestri in Erasmus in Portogallo presso l’Università di
+      Aveiro dove, tra i molti insegnamenti seguiti, ha trovato particolare
+      interesse per i corsi specializzati nell’analisi FEM. Sempre alla ricerca
+      di miglioramento e di nuove sfide ha deciso di partecipare al progetto
+      UniPV Sailing Team dove fa parte del gruppo Struttura.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Con ottima conoscenza della lingua inglese e portoghese è un ragazzo a cui
+      piace viaggiare e socializzare. Marzialista a livello agonistico, surfista
+      e snowboardista ha la passione per l’outdoor e lo sport in generale.
+      Amante della natura e molto rispettoso dell’ambiente cerca di indirizzare
+      il suo futuro in una carriera green legata ad energie rinnovabili e a
+      progetti ecosostenibili.
     image_alt: lorem-ipsum
     background: gray
     actions: []
