@@ -40,8 +40,6 @@ layout: post
 thumb_image: images/first post.jpg
 subtitle: Versione italiana sotto quella inglese
 ---
-### **ENG**
-
 **Global presentation**
 
 UniPV Sailing Team is a project born from the passion of the sailing world of many University of Pavia’s students, with the objective of integrating what they learnt during classes with practical experiences, managing a whole project as a team, with its design and management implications.
