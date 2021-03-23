@@ -30,6 +30,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/team_post_logo.jpg
 seo:
   title: ''
   description: ''
