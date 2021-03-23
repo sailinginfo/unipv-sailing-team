@@ -77,7 +77,7 @@ sections:
         actions:
           - label: More
             url: '#'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: left
