@@ -48,7 +48,8 @@ sections:
 
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: >-
+              https://www.foilingweek.com/pages/about/past-events/twenty19/fwdsgcomp/sumoth/
             style: link
             has_icon: false
             icon: arrow-left
