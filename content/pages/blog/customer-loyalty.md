@@ -38,7 +38,6 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: images/first post.jpg
-subtitle: Versione italiana sotto quella inglese
 ---
 **Global presentation**
 
