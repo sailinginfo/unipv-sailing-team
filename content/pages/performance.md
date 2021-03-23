@@ -116,17 +116,17 @@ sections:
     image: images/Raffaele Magni.jpg
   - section_id: lorem-ipsum
     title: Matteo Pastore
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Skipper
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Diplomato al liceo scientifico Taramelli di Pavia e frequenta il corso di
+      laurea in Ingegneria Industriale. Ragazzo intraprendente e con tanto
+      spirito di squadra, partecipa ad attività e progetti, come quello del
+      UniPV Sailing Team, per portare avanti la sua passione per la vela anche
+      in ambito universitario. Da sempre molto dedito allo sport, gioca a basket
+      da 8 anni ed è volontario presso il Centro Velico Caprera dove svolge
+      attività di supporto agli istruttori.
     image_alt: lorem-ipsum
     background: gray
     actions: []
