@@ -23,7 +23,7 @@ sections:
     type: section_content
     image: images/performance.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: lorem-ipsum Struttura
     content: >+
       Facilitare un approccio anche pratico al lavoro di Team-working e agli
       strumenti utilizzati nella progettazione odierna.
