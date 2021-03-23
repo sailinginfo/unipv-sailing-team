@@ -33,7 +33,7 @@ sections:
     actions: []
     type: section_content
   - section_id: lorem-ipsum
-    title: lorem-ipsum Materiali
+    title: Materiali
     content: >+
       Studiare la relazione proprietà del materiale e impiego, operare scelte di
       metodologie produttive delle diverse componenti tenendo conto delle
