@@ -36,10 +36,13 @@ sections:
     title: Osama Ezzaouia
     content: >
       Di origini straniere, è poliedrico e poliglotta (italiano madrelingua,
-      arabo madrelingua, inglese buono, francese base). Sempre disposto ad
-      imparare in ogni campo, dal 2017 ha maturato diverse esperienze lavorative
-      nel campo della muratura, elettricista, idraulica, meccanica auto/moto,
-      giardinaggio, traslochi, logistica e smontaggio/montaggio strutture.
+      arabo madrelingua, inglese buono, francese base). 
+
+
+      Sempre disposto ad imparare in ogni campo, dal 2017 ha maturato diverse
+      esperienze lavorative nel campo della muratura, elettricista, idraulica,
+      meccanica auto/moto, giardinaggio, traslochi, logistica e
+      smontaggio/montaggio strutture.
 
 
       Diplomato presso ITIS Cardano di Pavia come perito chimico, frequenta il
