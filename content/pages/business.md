@@ -62,6 +62,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Tommaso Cazzella.jpg
 seo:
   title: ''
   description: ''
