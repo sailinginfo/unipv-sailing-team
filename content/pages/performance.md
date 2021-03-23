@@ -143,7 +143,6 @@ sections:
         type: pricing_plan
     type: section_pricing
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     background: gray
     pricing_plans:
       - title: lorem-ipsum
