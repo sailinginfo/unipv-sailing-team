@@ -111,6 +111,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Alessio Ferrari.jpg
   - section_id: lorem-ipsum
     background: gray
     pricing_plans: []
