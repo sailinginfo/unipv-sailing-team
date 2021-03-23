@@ -6,9 +6,8 @@ sections:
     image: images/Home_logo.jpg
     image_alt: App preview
     title: UniPV Sailing Team
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      ## Imparare, formare, volare&#xA;&#xA;
     actions:
       - label: Learn More
         url: /features
