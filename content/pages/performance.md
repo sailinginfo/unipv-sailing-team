@@ -124,9 +124,12 @@ sections:
       laurea in Ingegneria Industriale. Ragazzo intraprendente e con tanto
       spirito di squadra, partecipa ad attività e progetti, come quello del
       UniPV Sailing Team, per portare avanti la sua passione per la vela anche
-      in ambito universitario. Da sempre molto dedito allo sport, gioca a basket
-      da 8 anni ed è volontario presso il Centro Velico Caprera dove svolge
-      attività di supporto agli istruttori.
+      in ambito universitario. 
+
+
+      Da sempre molto dedito allo sport, gioca a basket da 8 anni ed è
+      volontario presso il Centro Velico Caprera dove svolge attività di
+      supporto agli istruttori.
     image_alt: lorem-ipsum
     background: gray
     actions: []
