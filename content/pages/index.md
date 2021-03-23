@@ -23,13 +23,7 @@ sections:
           Sviluppare l’attitudine al raggiungimento di scopi mirati, anche in
           ambito competitivo, rispettando le tempistiche di realizzazione e
           ottimizzando gli aspetti teorici e pratici.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Crescita
         image: images/fierce-panda.jpg
         image_alt: App users welcoming a new member
