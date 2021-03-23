@@ -40,6 +40,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Stefano Cesarin.jpeg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
