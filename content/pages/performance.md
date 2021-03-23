@@ -103,10 +103,6 @@ sections:
     background: gray
     pricing_plans: []
     type: section_pricing
-  - section_id: lorem-ipsum
-    background: gray
-    pricing_plans: []
-    type: section_pricing
 seo:
   title: ''
   description: ''
