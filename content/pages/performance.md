@@ -59,6 +59,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Simone La Manna.jpg
   - section_id: lorem-ipsum
     background: gray
     pricing_plans: []
