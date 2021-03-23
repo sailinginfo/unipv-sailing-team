@@ -31,6 +31,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/Tommaso Floris.jpg
 seo:
   title: ''
   description: ''
