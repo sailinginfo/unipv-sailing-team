@@ -65,8 +65,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     pricing_plans: []
