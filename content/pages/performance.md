@@ -35,8 +35,7 @@ sections:
   - section_id: lorem-ipsum
     background: gray
     pricing_plans:
-      - price: lorem-ipsum
-        details: >-
+      - details: >-
           ## Lorem ipsum
 
 
@@ -50,8 +49,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
