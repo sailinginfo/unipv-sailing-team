@@ -58,6 +58,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/super-owl.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
