@@ -105,6 +105,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
+    image: images/business.jpg
 seo:
   title: ''
   description: ''
