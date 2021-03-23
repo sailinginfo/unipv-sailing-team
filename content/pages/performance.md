@@ -49,20 +49,6 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        highlight: false
-        actions: []
-        type: pricing_plan
     type: section_pricing
   - section_id: lorem-ipsum
     background: gray
