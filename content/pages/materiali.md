@@ -67,6 +67,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Samantha Forlini.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
