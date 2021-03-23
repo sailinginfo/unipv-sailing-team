@@ -3,17 +3,29 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     title: Progetto
-    content: >-
-      ## Lorem ipsum
+    content: >
+      UniPV Sailing Team è un progetto nato dalla passione per il mondo velico
+      di diversi studenti dell’Ateneo, con l’obiettivo di integrare quanto
+      appreso durante il percorso universitario con esperienze pratiche,
+      gestendo un progetto a livello di team in tutte le sue sfaccettature, da
+      quelle teoriche e progettuali a quelle applicative e gestionali.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Partendo da un gruppo di studenti di ingegneria interessati, ci siamo
+      affacciati al mondo *foil.*
 
 
-      - Lorem ipsum
+      Abbiamo poi compreso quanto sia importante avere un team composto da
+      studenti di diverse facoltà, con membri in grado di dare il proprio
+      contributo in diversi ambiti, in particolare economia e marketing.
 
-      - dolor sit amet
+
+      L' **Università di Pavia** è una delle poche in Italia ad **accoglie**re
+      contemporaneamente **facoltà scientifiche, non tecniche ed
+      umanistiche.**                Questo ci permette di chiamare all' azione
+      studenti altamente specializzati nei diversi campi d' interesse,
+      **riuscendo** inoltre **a fornire un ampio spettro di possibilità in
+      termini di rapporti con le aziende.**
     image_alt: lorem-ipsum
     background: gray
     actions: []
