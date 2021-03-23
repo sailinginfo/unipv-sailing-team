@@ -59,7 +59,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/Simone La Manna.jpg
+    image: images/remarkable-lettuce.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
