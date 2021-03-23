@@ -42,7 +42,7 @@ sections:
     type: section_content
     image: images/Stefano Cesarin.jpeg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Bryan Kevin Chàvez Pino
     content: >-
       ## Lorem ipsum
 
