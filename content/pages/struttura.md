@@ -196,7 +196,7 @@ sections:
     type: section_content
     image: images/Marco Vuturo.jpeg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Artion Zeneli
     content: >-
       ## Lorem ipsum
 
