@@ -131,6 +131,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Matteo Pastore.jpg
 seo:
   title: ''
   description: ''
