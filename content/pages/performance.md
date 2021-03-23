@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Performance
 sections:
   - section_id: lorem-ipsum
     title: ALESSANDRO CARDANI
