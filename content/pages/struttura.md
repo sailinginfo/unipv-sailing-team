@@ -71,17 +71,23 @@ sections:
     image: images/Bryan Chavez.jpg
   - section_id: lorem-ipsum
     title: Simone Cossu
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Nato a Pavia consegue il diploma presso l’indirizzo Scienze Applicate
+      delll’ITIS Cardano di Pavia. Decide quindi di intraprendere il percorso
+      universitario iscrivendosi al corso di Ingegneria Industriale o
+      delll’Università di Pavia.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Passione e dedizione sono tratti fondamentali della sua persona che lo
+      hanno portato ad ottenere ottimi successi accademici. Entra fin da subito
+      a far parte dell’UniPV Sailing Team, abbracciando e supportando
+      l’iniziativa col desiderio di poter sviluppare competenze pratiche da
+      accostare a quelle teoriche.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Importanti capacità come saper collaborare e trovare punti di sintesi sono
+      state apprese fuori dall’Università grazie al suo coinvolgimento
+      nell’organizzazione di eventi culturali e sociali sul territorio pavese.
     image_alt: lorem-ipsum
     background: gray
     actions: []
