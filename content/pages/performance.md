@@ -96,17 +96,17 @@ sections:
     image: images/Alessandro Lauria.jpg
   - section_id: lorem-ipsum
     title: Alessio Ferrari
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato al liceo scientifico Copernico a Pavia, dove frequenta il corso
+      di laurea ingegneria industriale.
+
+      Pragmatico e interessato agli studi intrapresi, una volta presentatogli
+      l’opportunità decide di prendere parte al progetto “UniPV sailing team”
+      nel team Performance.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Oltre a questo porta avanti il suo interesse nel mondo dello sport
+      giocando a calcio nella lega Promozione lombarda, e quello per il cinema.
     image_alt: lorem-ipsum
     background: gray
     actions: []
