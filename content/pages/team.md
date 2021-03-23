@@ -15,17 +15,10 @@ sections:
     image: images/performance.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Facilitare un approccio anche pratico al lavoro di Team-working e agli
+      strumenti utilizzati nella progettazione odierna.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
