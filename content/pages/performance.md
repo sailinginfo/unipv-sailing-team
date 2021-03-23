@@ -113,6 +113,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Raffaele Magni.jpg
 seo:
   title: ''
   description: ''
