@@ -1,6 +1,11 @@
 ---
 title: First Challenge blog post
-excerpt: "Nato ad Odessa in Ucraina dopo essersi diplomato come perito manutentore Aeronautico presso l’I.T.I.S\_ G. Feltrinelli di Milano si iscrive al corso di laurea in Ingegneria Industriale Meccanica all'Università di Pavia. Durante il primo anno universitario entra a far parte del UniPV Sailing Team spinto dalla voglia di far esperienza\_ e di contribuire con le proprie conoscenze in ambito aeronautico. Entra nel Team Performance, partecipando principalmente alla progettazione dello scafo e al miglioramento dell’efficienza generale.Nel tempo libero, oltre alla passione per la chitarra elettrica, segue con interesse i progressi in campo aerospaziale e nel settore dell’automotive. La fluenza in lingua inglese ha reso possibile l’apprendimento di nozioni aggiuntive in campo tecnico, che lo motivano alla creazione di progetti personali su Fusion360 e su carta, mantenendo alta la voglia di reinventarsi e migliorarsi nel tempo."
+excerpt: >-
+  Global presentationUniPV Sailing Team is a project born from the passion of
+  the sailing world of many University of Pavia’s students, with the objective
+  of integrating what they learnt during classes with practical experiences,
+  managing a whole project as a team, with its design and management
+  implications.
 date: '2021-01-03'
 thumb_image_alt: A group of people working in a cafe
 image_alt: A group of people working in a cafe
