@@ -172,7 +172,7 @@ sections:
     type: section_content
     image: images/Omar_Rondinelli.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Marco Vuturo
     content: >-
       ## Lorem ipsum
 
