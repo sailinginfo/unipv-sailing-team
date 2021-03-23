@@ -202,6 +202,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Artion_Zeneli.jpg
 seo:
   title: ''
   description: ''
