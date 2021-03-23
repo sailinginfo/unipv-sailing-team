@@ -47,11 +47,6 @@
                 "type": "action"
             },
             {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link"
