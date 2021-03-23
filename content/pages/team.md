@@ -2,24 +2,6 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    title: Fondatore
-    content: >
-      ## Davide Todesca
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: images/Davide Todesca.jpg
-  - section_id: lorem-ipsum
     title: DAVIDE TODESCA
     content: >
       ## Leader di UniPV Sailing Team
