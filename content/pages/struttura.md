@@ -149,17 +149,23 @@ sections:
     image: images/Stefano_Oggioni.jpg
   - section_id: lorem-ipsum
     title: Omar Rondinelli
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato al liceo scientifico “Angelo Omodeo” di Mortara (PV) è ora
+      regolarmente iscritto al secondo anno del corso di laurea in Ingegneria
+      Industriale presso l’Università degli Studi di Pavia.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Rondinelli è molto curioso e ambizioso il che lo porta spesso a spingersi
+      oltre la propria zona di comfort e ad affrontare le situazioni che gli si
+      presentano al meglio delle sue possibilità. Nel 2019 è entrato a far parte
+      del progetto UniPV Sailing Team con lo scopo di mettere in gioco le
+      proprie capacità e di ampliare le proprie conoscenze e bagaglio di
+      esperienze.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Nonostante l’impegno universitario riesce a coltivare la sua innata
+      passione per i viaggi e le avventure, visitando spesso città europee ed
+      extraeuropee nelle quali ama immergersi nella tradizione e cultura.
     image_alt: lorem-ipsum
     background: gray
     actions: []
