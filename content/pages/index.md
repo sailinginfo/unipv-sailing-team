@@ -47,8 +47,7 @@ sections:
           tutta Europa ad una competizione amichevole, tecnica e atletica.
 
         actions:
-          - label: lorem-ipsum
-            url: >-
+          - url: >-
               https://www.foilingweek.com/pages/about/past-events/twenty19/fwdsgcomp/sumoth/
             style: link
             has_icon: false
