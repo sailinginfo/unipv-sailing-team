@@ -33,7 +33,7 @@ sections:
     type: section_hero
     image: images/super-owl.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Filippo Iuriy Inveninato
     content: >-
       ## Lorem ipsum
 
