@@ -40,6 +40,8 @@ layout: post
 thumb_image: images/first post.jpg
 subtitle: Versione italiana sotto quella inglese
 ---
+### **ENG**
+
 **Global presentation**
 
 UniPV Sailing Team is a project born from the passion of the sailing world of many University of Pavia’s students, with the objective of integrating what they learnt during classes with practical experiences, managing a whole project as a team, with its design and management implications.
@@ -70,8 +72,6 @@ The average age of Italian researchers has increased over the last few years, ho
 
 Thanks to the support of this large platform, so suited to our needs, we aim to make ourselves known as much as possible, bringing people and companies closer to the sailing world, in particular foil, passing through a reality that enhances research and young people, in a territory of driving economy and with the need for bright and prepared minds.
 
-
-
 **Motivations**
 
 When it comes to competitiveness, for such strong communities like Sailing Teams, it is impossible not to want to compare yourself with others. We can just do it through a fair European university team competition, like the SuMoth Challenge, with an equal simulated project fund for each team, of 10000 SuMoth dollars, that accounts for the environmental impact of materials and processes whereby the boat is made.
@@ -79,8 +79,6 @@ When it comes to competitiveness, for such strong communities like Sailing Teams
 Another plus point is the structure of the competition, which implicitly favors the development of relationships between universities and companies, pushing not only the growth of students but a transparent collaboration between these worlds, which need to live symbiotically more now than never, ensuring continuity between education and work.
 
 Another important point in favor is the presence of an innovative room where these projects are developed and advertised; this makes *Foiling Week* a space where companies can emerge and grow, entering into a rapidly expanding market.
-
-
 
 **Milestones**
 
@@ -94,11 +92,9 @@ In these past few months, we have created a solid project starting point, in par
 
 Unfortunately, due to the current pandemic, organizing time has been undoubtedly extended, nevertheless we intend to continue the Pavia revolution.
 
-
-
 **Objectives**
 
-We aim to take part in the *S1 2021*, completing the theoretical design and carrying out the studies on the production aspects, then refining the latter. 
+We aim to take part in the *S1 2021*, completing the theoretical design and carrying out the studies on the production aspects, then refining the latter.
 
 Starting from October we are going to begin with the boat building, while we’ll be starting a new theoretical project that’ll go beyond the current one, also thanks to new recruiting and marketing campaigns, a main point for the succeeding of the project.
 
