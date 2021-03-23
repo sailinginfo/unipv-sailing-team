@@ -151,6 +151,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Enrico Pellegrino.jpg
 seo:
   title: ''
   description: ''
