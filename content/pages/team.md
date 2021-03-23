@@ -51,6 +51,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/kind-mango.jpg
   - section_id: lorem-ipsum
     title: PERFORMANCE
     content: >+
