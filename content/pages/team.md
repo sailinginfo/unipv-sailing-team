@@ -41,6 +41,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
+    image: images/struttura.jpg
   - section_id: lorem-ipsum
     title: MATERIALI
     content: >+
