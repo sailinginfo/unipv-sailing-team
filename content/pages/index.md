@@ -53,10 +53,15 @@ sections:
       - title: Challenge
         image: images/Home_challenge.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >+
+          La *Foiling SuMoth Challenge* è una competizione ispirata dalla
+          necessità per barche a vela di progetti e metodi di produzione più
+          sostenibili ed efficienti.
+
+          L'obiettivo finale di questa competizione è promuovere pratiche
+          sostenibili, stimolando studenti di Università e istituti superiori di
+          tutta Europa ad una competizione amichevole, tecnica e atletica.
+
         actions:
           - label: Learn More
             url: /features
