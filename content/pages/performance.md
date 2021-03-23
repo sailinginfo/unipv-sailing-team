@@ -41,7 +41,7 @@ sections:
     type: section_content
     image: images/pleasant-europa.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Simone La Manna
     content: >-
       ## Lorem ipsum
 
