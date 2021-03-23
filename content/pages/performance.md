@@ -133,7 +133,7 @@ sections:
     type: section_content
     image: images/Matteo Pastore.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Enrico Pellegrino
     content: >-
       ## Lorem ipsum
 
