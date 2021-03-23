@@ -92,7 +92,7 @@ sections:
     image_alt: lorem-ipsum
     background: gray
     actions:
-      - label: lorem-ipsum
+      - label: lorem-ipsum More
         url: '#'
         style: link
         has_icon: false
