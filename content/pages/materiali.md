@@ -31,6 +31,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/Spazzini Fabio.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
