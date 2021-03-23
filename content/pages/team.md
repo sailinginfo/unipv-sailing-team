@@ -32,7 +32,7 @@ sections:
     background: gray
     actions:
       - label: More
-        url: '#'
+        url: /struttura
         style: secondary
         has_icon: false
         icon: arrow-left
