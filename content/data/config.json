@@ -36,7 +36,7 @@
                 "type": "action"
             },
             {
-                "label": "Contact Us",
+                "label": "Contact us",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
