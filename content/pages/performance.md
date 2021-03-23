@@ -95,10 +95,6 @@ sections:
     actions: []
     type: section_content
     image: images/Alessio Ferrari.jpg
-  - section_id: lorem-ipsum
-    background: gray
-    pricing_plans: []
-    type: section_pricing
 seo:
   title: ''
   description: ''
