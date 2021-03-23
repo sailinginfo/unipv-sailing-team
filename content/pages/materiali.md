@@ -80,17 +80,24 @@ sections:
     image: images/Samantha Forlini.jpg
   - section_id: lorem-ipsum
     title: Lorenzo Guerci
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato all’istituto tecnico Alfieri Maserati di Voghera (PV) come
+      perito meccanico, frequenta il corso di laurea in Ingegneria Industriale. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Volenteroso e pronto all’ impegno, ha lavorato come vendemmiatore e come
+      stagista meccanico. Ha partecipato ad uno stage con varie aziende della
+      provincia per la realizzazione di componenti con la stampante 3D in
+      dotazione alla scuola, apprendendo nozioni in quel campo.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Membro del Team Materiali dal gennaio 2021, si è subito immerso nel
+      lavoro, apprendendo velocemente le diverse tecniche di produzione di
+      compositi e studiando le possibilità produttive di hydrofoil. Ha buone
+      capacità di lavoro in team, di organizzazione e problem solving,
+      dimestichezza con computer e con programmi per il disegno tecnico. Pratica
+      Ju-Jitsu a livello cintura marrone, appassionato di libri e suona la
+      chitarra.
     image_alt: lorem-ipsum
     background: gray
     actions: []
