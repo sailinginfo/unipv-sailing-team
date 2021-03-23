@@ -154,17 +154,28 @@ sections:
     image: images/Enrico Pellegrino.jpg
   - section_id: lorem-ipsum
     title: Matthew Alessandro Sollazzo
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato come perito meccanico presso l’ITIS G. Cardano di Pavia,
+      frequenta il corso di laurea in Ingegneria Industriale all’Università di
+      Pavia. I suoi studi scolastici gli hanno permesso di ottenere ottime
+      conoscenze nel campo industriale, nello studio approfondito di macchinari
+      quali ad esempio torni, frese CNC e trapani a colonna, sia a livello
+      teorico che in officina, imparandone l’uso pratico. Queste conoscenze
+      manuali sono state consolidate grazie a stage formativi e ad un’esperienza
+      lavorativa di un mese e mezzo in un’azienda metalmeccanica (Ingramec srl,
+      Rosate).
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Concluso il primo semestre in università, conosce il progetto UniPV
+      Sailing Team ed entra a far parte del team Performance per provare un
+      primo approccio al mondo ingegneristico.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Tenacia, perseveranza e intuito sono le caratteristiche che lo fanno
+      essere determinato a raggiungere i propri obiettivi. Nel tempo libero
+      continua a praticare sport tra cui nuoto e basket ma anche da
+      combattimento, attualmente ha iniziato una nuova arte marziale il
+      Taekwondo presso “Taekwondo Calling Pavia”.
     image_alt: lorem-ipsum
     background: gray
     actions: []
