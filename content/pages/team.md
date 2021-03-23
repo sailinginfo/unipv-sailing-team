@@ -91,7 +91,16 @@ sections:
     content: "Dare visibilità al progetto, attraverso campagne marketing e comunicazione, in modo da far avvicinare aziende e appassionati all’UNIPV Sailing Team.\_Cercare inoltre, in particolare attraverso i social media, di raggiungere altri studenti universitari per far crescere il team.\n\n"
     image_alt: lorem-ipsum
     background: gray
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
 seo:
   title: ''
