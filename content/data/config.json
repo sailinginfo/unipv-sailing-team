@@ -114,7 +114,7 @@
                     {
                         "label": "Instagram",
                         "url": "#",
-                        "style": "link",
+                        "style": "primary",
                         "has_icon": false,
                         "icon": "instagram",
                         "icon_position": "left",
