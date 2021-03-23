@@ -173,17 +173,23 @@ sections:
     image: images/Omar_Rondinelli.jpg
   - section_id: lorem-ipsum
     title: Marco Vuturo
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Diplomatosi al Liceo Scientifico “G.Ferro” di Alcamo (TP), si iscrive al
+      corso di laurea in Ingegneria Industriale, indirizzo Meccanica, presso
+      l’Università degli Studi di Pavia. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Convinto dell’importanza di affiancare studio ed esperienza pratica,
+      durante la fine del secondo anno universitario, entra a far parte del
+      UniPV Sailing Team, nel gruppo di Struttura, contribuendo alla
+      progettazione dello scafo mediante il software Inventor. 
 
 
-      - Lorem ipsum
+      Ragazzo socievole e collaborativo, vanta un’esperienza decennale
+      all’interno dell’associazione scout Agesci, che gli ha trasmesso i valori
+      della legalità e dell’importanza del lavoro di squadra. Si diletta nel
+      tennis e nella pesca.
 
-      - dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
