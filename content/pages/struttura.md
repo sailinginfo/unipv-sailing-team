@@ -34,7 +34,7 @@ sections:
     type: section_hero
     image: images/Alessandro Tarantini.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Stefano Cesarin
     content: >-
       ## Lorem ipsum
 
