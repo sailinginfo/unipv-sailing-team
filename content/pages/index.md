@@ -23,10 +23,10 @@ sections:
       - title: Obiettivi
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Sviluppare l’attitudine al raggiungimento di scopi mirati, anche in
+          ambito competitivo, rispettando le tempistiche di realizzazione e
+          ottimizzando gli aspetti teorici e pratici
         actions:
           - label: Learn More
             url: /features
