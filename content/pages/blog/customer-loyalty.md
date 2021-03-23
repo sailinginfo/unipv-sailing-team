@@ -1,6 +1,10 @@
 ---
 title: First Challenge blog post
-excerpt: "Global presentation\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_UniPV Sailing Team is a project born from the passion of the sailing world of many University of Pavia’s students, with the objective of integrating what they learnt during classes with practical experiences, managing a whole project as a team, with its design and management implications."
+excerpt: >-
+  UniPV Sailing Team is a project born from the passion of the sailing world of
+  many University of Pavia’s students, with the objective of integrating what
+  they learnt during classes with practical experiences, managing a whole
+  project as a team, with its design and management implications.
 date: '2021-01-03'
 thumb_image_alt: A group of people working in a cafe
 image_alt: A group of people working in a cafe
