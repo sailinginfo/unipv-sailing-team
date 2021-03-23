@@ -71,11 +71,6 @@
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
                         "label": "Contact",
                         "url": "/contact",
                         "style": "link"
