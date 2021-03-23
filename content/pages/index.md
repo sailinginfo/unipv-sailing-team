@@ -34,8 +34,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
+      - title: Crescita
+        image: images/Home_crescita.jpg
         image_alt: App users welcoming a new member
         content: >+
           Imparare a instaurare e mantenere rapporti di collaborazione con le
