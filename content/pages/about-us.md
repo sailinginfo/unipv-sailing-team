@@ -20,12 +20,12 @@ sections:
       contributo in diversi ambiti, in particolare economia e marketing.
 
 
-      L' **Università di Pavia** è una delle poche in Italia ad **accoglie**re
-      contemporaneamente **facoltà scientifiche, non tecniche ed
-      umanistiche.**                Questo ci permette di chiamare all' azione
-      studenti altamente specializzati nei diversi campi d' interesse,
-      **riuscendo** inoltre **a fornire un ampio spettro di possibilità in
-      termini di rapporti con le aziende.**
+      L' **Università di Pavia** presenta un forte fattore competitivo in tal
+      senso, includendo in un unico ateneo **facoltà scientifiche e
+      umanistiche**. Questo ci permette di chiamare all' azione studenti
+      altamente specializzati nei diversi campi d' interesse, **riuscendo**
+      inoltre **a fornire un ampio spettro di possibilità in termini di rapporti
+      con le aziende.**
     image_alt: lorem-ipsum
     background: gray
     actions: []
