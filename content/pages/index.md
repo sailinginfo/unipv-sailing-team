@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/marvelous-sunflower.jpg
     image_alt: App preview
-    backgr
+    background: 
     title: UniPV Sailing Team
     content: |
       ## Imparare, formare, volare&#xA;&#xA;
