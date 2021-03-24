@@ -36,15 +36,14 @@ sections:
       - title: Challenge
         image: images/pleasant-pine.jpg
         image_alt: App user profile preview
-        content: >+
-          La *Foiling SuMoth Challenge* è una competizione ispirata dalla
-          necessità per barche a vela di progetti e metodi di produzione più
-          sostenibili ed efficienti.
-
+        content: >
+          La *Foiling SuMoth Challenge* è una competizione finalizzata allo
+          sviluppo di progetti e metodi di produzione più sostenibili ed
+          efficienti
+           per barche a vela di tipo foil.
           L'obiettivo finale di questa competizione è promuovere pratiche
           sostenibili, stimolando studenti di Università e istituti superiori di
           tutta Europa ad una competizione amichevole, tecnica e atletica.
-
         actions:
           - url: >-
               https://www.foilingweek.com/pages/about/past-events/twenty19/fwdsgcomp/sumoth/
