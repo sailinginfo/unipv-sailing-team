@@ -20,8 +20,8 @@ sections:
         image: images/marvelous-elm.jpg
         image_alt: App preview on a phone and tablet
         content: >
-          Sviluppare l’attitudine al raggiungimento di scopi mirati, anche in
-          ambito competitivo, rispettando le tempistiche di realizzazione e
+          Sviluppare l’attitudine al raggiungimento di obbiettivi mirati, anche
+          in ambito competitivo, rispettando le tempistiche di realizzazione e
           ottimizzando gli aspetti teorici e pratici.
         actions: []
       - title: Crescita
