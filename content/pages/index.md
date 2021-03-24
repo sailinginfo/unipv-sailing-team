@@ -27,12 +27,11 @@ sections:
       - title: Crescita
         image: images/fierce-panda.jpg
         image_alt: App users welcoming a new member
-        content: >+
+        content: >
           Imparare a instaurare e mantenere rapporti di collaborazione con le
           aziende del
           settore.                                                                                                       
-          Raggiungere competenze certificate spendibili nel mondo del lavoro.
-
+          Raggiungere competenze spendibili nel mondo del lavoro.
         actions: []
       - title: Challenge
         image: images/pleasant-pine.jpg
