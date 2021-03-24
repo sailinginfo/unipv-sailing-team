@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: UniPV Sailing Team
     content: |
-      ## Imparare, formare, volare&#xA;&#xA;
+      ## Imparare, formare, volar&#xA;&#xA;
     actions:
       - label: About Us
         url: /about-us
