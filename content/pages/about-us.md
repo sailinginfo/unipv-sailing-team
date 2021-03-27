@@ -12,12 +12,13 @@ sections:
 
 
       Partendo da un gruppo di studenti di ingegneria interessati, ci siamo
-      affacciati al mondo *foil.*
+      affacciati al mondo *foil, riscontrando poi interesse ed ottenendo il
+      supporto di professori.*
 
 
-      Abbiamo poi compreso quanto sia importante avere un team composto da
-      studenti di diverse facoltà, con membri in grado di dare il proprio
-      contributo in diversi ambiti, in particolare economia e marketing.
+      Abbiamo compreso quanto sia importante avere un team composto da studenti
+      di diverse facoltà, con membri in grado di dare il proprio contributo in
+      diversi ambiti, in particolare economia e marketing.
 
 
       L' **Università di Pavia** presenta un forte fattore competitivo in tal
