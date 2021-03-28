@@ -13,7 +13,7 @@ sections:
 
       Partendo da un gruppo di studenti di ingegneria interessati, ci siamo
       affacciati al mondo *foil, riscontrando poi interesse ed ottenendo il
-      supporto di professori.*
+      supporto di professori del dipartimento di ingegneria industriale.*
 
 
       Abbiamo compreso quanto sia importante avere un team composto da studenti
