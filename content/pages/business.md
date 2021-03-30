@@ -4,7 +4,7 @@ sections:
   - section_id: lorem-ipsum
     title: ARIANNA PITTALUGA
     content: >
-      ## Responsabile Team Business
+      ## Responsabile Team Comunicazione
 
 
       Oltre alla passione per la comunicazione, il marketing e i social media,
