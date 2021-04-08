@@ -82,7 +82,7 @@ sections:
     background: white
     title: Latest Posts
 seo:
-  title: Sailing Team U
+  title: Sailing Team Unipv
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
