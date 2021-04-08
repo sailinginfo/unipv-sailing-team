@@ -1,6 +1,23 @@
 ---
 sections:
   - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
+  - section_id: lorem-ipsum
     title: DAVIDE TODESCA
     content: >
       ## Leader UniPV Sailing Team
@@ -33,23 +50,6 @@ sections:
     actions: []
     type: section_hero
     image: images/kind-mango.jpg
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
   - section_id: lorem-ipsum
     title: PERFORMANCE
     content: >+
