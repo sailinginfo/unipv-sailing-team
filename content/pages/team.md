@@ -60,7 +60,7 @@ sections:
         type: action
     type: section_content
     image: images/performance.jpg
-  - section_id: lorem-ipsum
+  - section_id: struttura
     title: STRUTTURA
     content: >+
       Facilitare un approccio anche pratico al lavoro di Team-working e agli
