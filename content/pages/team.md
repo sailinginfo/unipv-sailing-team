@@ -6,7 +6,7 @@ sections:
     actions: []
     type: section_content
     image: images/diagramma_sailing_team.png
-  - section_id: lorem-ipsum
+  - section_id: leader
     title: DAVIDE TODESCA
     content: >
       ## Leader UniPV Sailing Team
