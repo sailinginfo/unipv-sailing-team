@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: t
 sections:
   - section_id: lorem-ipsum
     title: DAVIDE TODESCA
