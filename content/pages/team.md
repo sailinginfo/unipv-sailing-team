@@ -145,4 +145,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: landing
+title: Teams
 ---
