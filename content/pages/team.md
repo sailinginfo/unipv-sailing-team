@@ -102,7 +102,7 @@ sections:
         type: action
     type: section_content
     image: images/materiali.jpg
-  - section_id: lorem-ipsum
+  - section_id: web
     title: WEB
     content: >+
       Progettare il sito web del Team che presenti il progetto nella sua
