@@ -1,6 +1,6 @@
 ---
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Diagramma
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
