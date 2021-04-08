@@ -144,11 +144,6 @@ sections:
         type: action
     type: section_content
     image: images/business.jpg
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
 seo:
   title: ''
   description: ''
