@@ -39,7 +39,7 @@ sections:
     actions: []
     type: section_hero
     image: images/kind-mango.jpg
-  - section_id: lorem-ipsum
+  - section_id: performance
     title: PERFORMANCE
     content: >+
       Creare un modello CAD attraverso l’utilizzo di calcoli sperimentali,
