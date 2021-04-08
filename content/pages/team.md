@@ -5,6 +5,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/diagramma_sailing_team.png
   - section_id: lorem-ipsum
     title: DAVIDE TODESCA
     content: >
