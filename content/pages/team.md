@@ -80,7 +80,7 @@ sections:
         type: action
     type: section_content
     image: images/struttura.jpg
-  - section_id: lorem-ipsum
+  - section_id: materiali
     title: MATERIALI
     content: >+
       Studiare la relazione proprietà del materiale e impiego, operare scelte di
