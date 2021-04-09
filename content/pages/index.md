@@ -71,8 +71,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - subtitle: lorem-ipsum
-        price: lorem-ipsum
+      - price: lorem-ipsum
         details: >-
           ## Lorem ipsum
 
