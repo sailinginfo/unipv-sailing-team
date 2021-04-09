@@ -84,6 +84,8 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
+        details: |
+          ![](/images/makosharklogo.png)
     type: section_pricing
     section_id: pricing section
   - section_id: recent-posts
