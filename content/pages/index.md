@@ -73,7 +73,7 @@ sections:
         type: pricing_plan
       - highlight: false
         actions:
-          - label: more
+          - label: More
             url: '#'
             style: link
             has_icon: false
