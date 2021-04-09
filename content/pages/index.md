@@ -74,7 +74,7 @@ sections:
       - highlight: false
         actions:
           - label: More
-            url: '#'
+            url: 'https://www.mako-shark.com/'
             style: primary
             has_icon: true
             icon: arrow-right
