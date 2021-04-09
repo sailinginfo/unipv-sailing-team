@@ -71,7 +71,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - price: lorem-ipsum
+      - price: Mako Shark
         details: >-
           ## Lorem ipsum
 
