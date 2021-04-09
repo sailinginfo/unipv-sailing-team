@@ -71,8 +71,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - price: Mako Shark
-        highlight: false
+      - highlight: false
         actions:
           - label: lorem-ipsum
             url: '#'
