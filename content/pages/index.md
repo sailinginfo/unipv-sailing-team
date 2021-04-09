@@ -71,7 +71,6 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-        title: Jeco
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: lorem-ipsum
