@@ -59,10 +59,6 @@ sections:
     background: gray
     pricing_plans:
       - price: JECO Pavia
-        details: >+
-          Chi è lo sponsor in questione, cosa fa e in che modo ha aiutato il
-          progetto
-
         highlight: false
         actions:
           - label: More
