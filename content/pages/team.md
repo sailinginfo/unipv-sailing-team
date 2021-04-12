@@ -7,8 +7,6 @@ sections:
     type: section_content
     image: images/graceful-paprika.png
     title: Struttura del Sailing Team
-    content: |
-      ![](/images/Copia%20di%20Copia%20di%20Senza%20titolo-2.png)
   - section_id: leader
     title: DAVIDE TODESCA
     content: >
