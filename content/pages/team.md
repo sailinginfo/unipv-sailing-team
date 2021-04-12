@@ -2,7 +2,7 @@
 sections:
   - section_id: Diagramma
     image_alt: lorem-ipsum
-    background: gray
+    background: white
     actions: []
     type: section_content
     image: images/remarkable-giraffe.png
