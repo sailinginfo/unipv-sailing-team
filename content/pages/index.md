@@ -58,8 +58,7 @@ sections:
   - title: Sponsor
     background: gray
     pricing_plans:
-      - price: JECO Pavia
-        highlight: false
+      - highlight: false
         actions:
           - label: More
             url: 'https://jecopavia.it/'
