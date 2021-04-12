@@ -70,6 +70,8 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
+        details: |
+          ![](/images/LOGO-PNG.png)
       - highlight: false
         actions:
           - label: More
