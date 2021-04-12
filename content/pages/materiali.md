@@ -4,11 +4,11 @@ sections:
   - section_id: lorem-ipsum
     title: FABIO SPAZZINI
     content: >
-      ## Resppnsabile Team Materiali 
+      ## Responsabile Team Materiali
 
 
       Diplomato presso *Liceo Scientifico Golgi*, Broni (PV) frequenta il corso
-      di laurea in Ingegneria Industriale. 
+      di laurea in Ingegneria Industriale.
 
 
       Coordina le ricerche dei membri del team in ambito materiali, con
