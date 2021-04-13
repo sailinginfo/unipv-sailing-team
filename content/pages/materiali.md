@@ -223,17 +223,29 @@ sections:
     image: images/Ikhlef Sebbari.jpg
   - section_id: lorem-ipsum
     title: Ermes Vernizzi
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato al liceo scientifico “Angelo Omodeo” di Mortara (PV) decide di
+      iscriversi al corso di laurea in ingegneria industriale, presso
+      l’Università degli Studi di Pavia. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      La sua curiosità lo ha sempre spinto verso nuove esperienze.  Nel corso
+      degli anni è così riuscito ad affiancare agli studi svariate esperienze
+      lavorative in campo elettrico, di progettazione, di sicurezza e
+      formazione. Animato dal desiderio di vivere nuove avventure e migliorare
+      la conoscenza della lingua inglese, ha vissuto per un paio di mesi in
+      Irlanda, dove si è mantenuto lavorando come tuttofare in una piccola
+      fattoria passiva.
 
 
-      - Lorem ipsum
+      Al termine del primo semestre, venendo a sapere del progetto UniPv Sailing
+      team, entra a far parte del team Materiali con lo scopo di ampliare le sue
+      competenze e conciliare studio ed esperienza pratica.
 
-      - dolor sit amet
+
+      Nel tempo libero ama dedicarsi allo sport e divertirsi con progetti fai da
+      te. In futuro si vede come professionista in ambito energetico, con un
+      occhio di riguardo verso ambiente ed ecosostenibilità.
     image_alt: lorem-ipsum
     background: gray
     actions: []
