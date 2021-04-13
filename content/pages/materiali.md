@@ -202,17 +202,20 @@ sections:
     image: images/Matthias Molinari.jpg
   - section_id: lorem-ipsum
     title: Ikhlef Sebbari
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato presso IIS Faravelli di Stradella (PV), indirizzo ITI
+      informatica e telecomunicazioni. Studente di Ingegneria Industriale.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Poliedrico e poliglotta (madrelingua Amazigh e Italiano, B2 Inglese, A1
+      Arabo), è da sempre interessato al mondo della tecnologia e
+      dell'ingegneria, si è unito al team per accrescere la propria cultura
+      nella produzione e assemblaggio di componentistica..
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Interessato nella programmazione in C, progetti DIY, Arduino, stampa 3D,
+      assemblaggio computer, progettazione e costruzione
+      droni.                     Interessato anche al mondo delle criptovalute.
     image_alt: lorem-ipsum
     background: gray
     actions: []
