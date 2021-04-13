@@ -222,7 +222,7 @@ sections:
     type: section_content
     image: images/Ikhlef Sebbari.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Ermes Vernizzi
     content: >-
       ## Lorem ipsum
 
