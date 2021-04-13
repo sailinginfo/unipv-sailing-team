@@ -149,9 +149,6 @@ sections:
   - section_id: lorem-ipsum
     title: Gabriele Smiroldo
     content: >
-      ## Gabriele Smiroldo
-
-
       Diplomato presso l'istituto tecnico industriale "Luigi Galvani" (MI) in
       meccanica, meccatronica ed energia.
 
