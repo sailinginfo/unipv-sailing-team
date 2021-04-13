@@ -180,17 +180,21 @@ sections:
     image: images/Simone Merla.jpg
   - section_id: lorem-ipsum
     title: Matthias Molinari
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Diplomato presso il liceo scientifico De Amicis di Milano, frequenta il
+      corso di laurea in ingegneria industriale.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Timido ma con un buon senso dell’umorismo e tanta fantasia, ha effettuato
+      per due anni uno stage estivo presso la sede di Ferrero in Lussemburgo,
+      imparando a coordinarsi e lavorare in squadra.
 
 
-      - Lorem ipsum
+      Aperto alle novità, ha deciso di prendere parte al progetto, viste le
+      opportunità per la crescita professionale nella produzione industriale.
 
-      - dolor sit amet
+
+      Tra i suoi più grandi interessi trovano posto auto e chitarra.
     image_alt: lorem-ipsum
     background: gray
     actions: []
