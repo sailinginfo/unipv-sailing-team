@@ -250,6 +250,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Ermes Vernizzi.jpg
 seo:
   title: ''
   description: ''
