@@ -172,17 +172,7 @@ sections:
     image: images/Gabriele Smiroldo.jpg
   - section_id: lorem-ipsum
     title: Simone Merla
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Diplomato come tecnico elettrico dopo un percorso di 4 anni al C.F.P. Salesiani Don Bosco di Milano e diplomato col quinto anno all’I.P.S.I.A. Enzo Ferrari di Monza come manutentore di impianti e assistenza tecnica, ora frequenta il corso di Ingegneria Industriale.\n\nCurioso, intraprendente e pronto a lavorare sodo, ha acquisito diverse competenze grazie a stage come elettricista di tipo civile, di impianti elettrici, e come assemblatore elettromeccanico di componenti ferroviari.\n\nLavora per una società che si occupa dell'organizzazione di matrimoni, dalla costruzione di elementi decorativi al planning. Grazie a ciò ha imparato a lavorare instancabilmente, in team, e con scadenze rigidissime.\n\nAmante del bodybuilding da alcuni anni, appassionato al mondo dell’intrattenimento nipponico, dai manga agli anime e videogiochi.\_\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
