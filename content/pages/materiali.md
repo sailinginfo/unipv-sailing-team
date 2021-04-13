@@ -201,7 +201,7 @@ sections:
     type: section_content
     image: images/Matthias Molinari.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Ikhlef Sebbari
     content: >-
       ## Lorem ipsum
 
