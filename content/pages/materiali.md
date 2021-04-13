@@ -147,7 +147,7 @@ sections:
     type: section_content
     image: images/Andrea Foresti.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Gabriele Smiroldo
     content: >
       ## Gabriele Smiroldo
 
