@@ -145,6 +145,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Andrea Foresti.jpg
 seo:
   title: ''
   description: ''
