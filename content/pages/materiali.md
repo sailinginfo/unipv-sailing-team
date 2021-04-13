@@ -148,17 +148,26 @@ sections:
     image: images/Andrea Foresti.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Gabriele Smiroldo
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Diplomato presso l'istituto tecnico industriale "Luigi Galvani" (MI) in
+      meccanica, meccatronica ed energia.
+
+      Attualmente frequenta il corso di laurea in ingegneria industriale.
 
 
-      - Lorem ipsum
+      Affidabile, volenteroso e con buona attitudine al lavoro di gruppo è
+      entrato a far parte del team Materiali per avere una visione più ampia di
+      quello che è il mondo dell'ingegneria e soprattutto della progettazione.
 
-      - dolor sit amet
+
+      Durante l'alternanza scuola-lavoro ha lavorato nel settore dell'energia
+      presso un'azienda di contabilizzazione del calore nei
+      condomini.                                Ha avuto esperienze come
+      educatore, allenatore di calcio e arbitro presso l'oratorio del proprio
+      quartiere e dall'età di 10 anni gioca a calcio.
     image_alt: lorem-ipsum
     background: gray
     actions: []
