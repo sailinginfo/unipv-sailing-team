@@ -139,7 +139,7 @@ sections:
     type: section_content
     image: images/Elena  Todaro.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Andrea Foresti
     content: "## Andrea Foresti\n\nDiplomato presso liceo scientifico Caramuel-Roncalli di Vigevano (PV).\n\nSempre pronto a mettersi in gioco e ad impegnarsi, durante la carriera scolastica ha partecipato a diversi progetti, che gli hanno permesso di accrescere la propria capacità di lavoro in team.\_\n\nSempre alla ricerca di qualcosa che lo possa far crescere sia nel profilo professionale che personale, ha conosciuto l'UniPV Sailing Team nel febbraio 2021 e ha deciso di entrare nel team Materiali con la volontà di accrescere la propria cultura scientifica, interessato soprattutto alle innovazioni tecnologiche.\n\nÈ amante sia di sport individuali che di squadra.\n"
     image_alt: lorem-ipsum
     background: gray
