@@ -50,7 +50,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/magnificent-hickory.jpg
+    image: images/thoughtful-petunia.jpg
   - section_id: lorem-ipsum
     title: Matteo Pastore
     content: >
