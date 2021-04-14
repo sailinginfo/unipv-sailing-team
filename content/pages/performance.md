@@ -33,6 +33,25 @@ sections:
     type: section_hero
     image: images/elite-avocado.jpg
   - section_id: lorem-ipsum
+    title: Raffaele Magni
+    content: >
+      Diplomato al Liceo Scientifico Giacomo Leopardi di Lecco, frequenta
+      attualmente il corso di laurea in Ingegneria Industriale ad indirizzo
+      meccanico presso l'Università di Pavia. Possiede una buona padronanza
+      della lingua Inglese. 
+
+
+      Durante l'università ha approfondito la sua passione per la meccanica
+      automobilistica con un corso presso l'Autodromo di Monza e continua a
+      sviluppare i suoi interessi per la progettazione all'interno dell'UniPV
+      Sailing Team, focalizzandosi sulle simulazioni fluidodinamiche implicate
+      nello sviluppo di un'imbarcazione.
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
+    image: images/Raffaele Magni.jpg
+  - section_id: lorem-ipsum
     title: Matteo Pastore
     content: >
       ## Skipper
@@ -116,25 +135,6 @@ sections:
     actions: []
     type: section_content
     image: images/Alessandro Lauria.jpg
-  - section_id: lorem-ipsum
-    title: Raffaele Magni
-    content: >
-      Diplomato al Liceo Scientifico Giacomo Leopardi di Lecco, frequenta
-      attualmente il corso di laurea in Ingegneria Industriale ad indirizzo
-      meccanico presso l'Università di Pavia. Possiede una buona padronanza
-      della lingua Inglese. 
-
-
-      Durante l'università ha approfondito la sua passione per la meccanica
-      automobilistica con un corso presso l'Autodromo di Monza e continua a
-      sviluppare i suoi interessi per la progettazione all'interno dell'UniPV
-      Sailing Team, focalizzandosi sulle simulazioni fluidodinamiche implicate
-      nello sviluppo di un'imbarcazione.
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: images/Raffaele Magni.jpg
   - section_id: lorem-ipsum
     title: Enrico Pellegrino
     content: >
