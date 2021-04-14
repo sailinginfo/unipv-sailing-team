@@ -50,7 +50,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/Raffaele Magni.jpg
+    image: images/Raffaele Magni (1).jpg
   - section_id: lorem-ipsum
     title: Matteo Pastore
     content: >
