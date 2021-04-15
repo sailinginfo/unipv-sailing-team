@@ -5,7 +5,7 @@ sections:
     background: gray
     actions: []
     type: section_content
-    image: images/diagramma_new3.png
+    image: images/diagramma_new4.png
     title: Struttura del Sailing Team
   - section_id: leader
     title: DAVIDE TODESCA
