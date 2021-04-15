@@ -2,7 +2,7 @@
 sections:
   - section_id: Diagramma
     image_alt: lorem-ipsum
-    background: white
+    background: gray
     actions: []
     type: section_content
     image: images/diagramma_new3.png
