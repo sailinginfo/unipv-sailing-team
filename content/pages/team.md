@@ -90,7 +90,7 @@ sections:
       problematiche tecnico realizzative.
 
     image_alt: lorem-ipsum
-    background: gray
+    background: white
     actions:
       - label: More
         url: /materiali
