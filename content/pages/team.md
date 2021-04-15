@@ -48,7 +48,7 @@ sections:
       in grado di progettare anche senza l’ausilio di un modello fisico
 
     image_alt: lorem-ipsum
-    background: gray
+    background: white
     actions:
       - label: More
         url: /performance
