@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/marvelous-sunflower.jpg
+    image: images/UNIPV-SAILING_BIANCO.png
     image_alt: App preview
     title: UniPV Sailing Team
     content: |
